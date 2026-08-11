@@ -1,8 +1,7 @@
-# HackerRank
-This repository contains a collection of my solutions to HackerRank Python problems.
+# HackerRank Problem Solutions
+This repository contains a collection of my solutions to HackerRank problems.
 
-[**HackerRank Problems**](https://www.hackerrank.com/domains/python) - 
-[**My Profile**](https://www.hackerrank.com/profile/mhahib5)
+[**My HackerRank Profile**](https://www.hackerrank.com/profile/mhahib5)
 
 ## Python
 
